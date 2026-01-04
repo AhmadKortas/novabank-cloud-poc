@@ -1,6 +1,6 @@
--This solution is a proof of concept (PoC) and not intended for production use at this stage.
--The initial deployment targets a single AWS region within the EU to meet data residency requirements.
--NovaBank currently operates a small-scale customer portal with limited traffic and no high-throughput requirements.
--Centralized logging is required for visibility and auditability, but advanced monitoring and alerting are not yet mandatory.
--Costs must remain low and predictable, using small instance sizes and managed services where appropriate.
--Security improvements will be added in later phases.
+- This solution is a proof of concept (PoC) and not intended for production use at this stage.
+- The initial deployment targets a single AWS region within the EU to meet data residency requirements.
+- NovaBank currently operates a small-scale customer portal with limited traffic and no high-throughput requirements.
+- Centralized logging is required for visibility and auditability, but advanced monitoring and alerting are not yet mandatory.
+- Costs must remain low and predictable, using small instance sizes and managed services where appropriate.
+- Security improvements will be added in later phases.
